@@ -1,0 +1,26 @@
+{
+  "name": "time-tracking-dashboard",
+  "version": "1.0.0",
+  "description": "A dashboard for tracking time spent on various activities.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "vite": "^2.5.0"
+  },
+  "keywords": [
+    "time-tracking",
+    "dashboard",
+    "react"
+  ],
+  "author": "yiro02",
+  "license": "MIT"
+}
